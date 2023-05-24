@@ -33,7 +33,6 @@ def click(row,col):
         check()
         change_a()
         label.config(text=a+"'s Chance")
-        
 ###############   Main Program #################
 root=Tk()                   #Window defined
 root.title("Tic-Tac-Toe")   #Title given
